@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App" style = {{display: "flex", justifyContent: "center", height: "100%",width: "100%", alignContent: "center", backgroundColor: "blue", position: "absolute"}}>
+    <div className="App">
       <Pie/>
     </div>
   );
